@@ -78,7 +78,7 @@ function uniqueValues(input) {
         // console.log("unique", unique);
     }
 
-    return value;
+    return unique;
 }
 
 console.log(uniqueValues(numbers));
